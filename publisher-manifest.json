@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "837e916ee51a6a2e4a796c83",
+  "owner": "ktfyum",
+  "repo": "page-c36790e11f0399cda6b10bea",
+  "title": "可莉の蹦蹦炸弹",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c36790e11f0399cda6b10bea",
+      "a": "可莉の蹦蹦炸弹",
+      "b": "2027官方最新地址导航",
+      "entity": "可莉の蹦蹦炸弹",
+      "brand": "可莉の蹦蹦炸弹",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "6795a9816d0035ef554838306ffc78970f23fbd36b7b7fbcb797e06012e528e5",
+      "content": {
+        "primary_entity": "可莉の蹦蹦炸弹",
+        "keyword1": "可莉の蹦蹦炸弹",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，订阅导入后即可跨平台同步使用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "按流量与设备数挑好套餐，三步完成订阅配置，随时切换节点。",
+          "AI_CLOSING_TITLE": "选好套餐开始连接",
+          "AI_DESCRIPTION": "，围绕设备数量、订阅周期与流量需求设计三档套餐，基础版满足轻量使用，旗舰版提供 IPLC 专线游戏加速优化与全节点原生流媒体解锁，团队版支持 20 台设备同时在线并配备专属客户经理。客户端覆盖 Windows、macOS、Android、iOS 等主流系统，订阅导入后可同步节点配置，按年付更可节省两个月费用。",
+          "AI_FEATURES_INTRO": "套餐按流量、设备数与线路品质划分，可按需选择或组合升级。",
+          "AI_FEATURES_TITLE": "套餐与设备适配",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量，支持 3 台设备同时在线，按年付仅需 ¥150。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量，支持 5 台设备，含 IPLC 专线与原生流媒体解锁。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量，支持 20 台设备，享 VIP 节点与专属客户经理。",
+          "AI_FEATURE_TITLE_1": "轻量入门",
+          "AI_FEATURE_TITLE_2": "性能升级",
+          "AI_FEATURE_TITLE_3": "多设备协作",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅配置，三个步骤即可开始使用。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_HERO_INTRO": "可莉の蹦蹦炸弹提供多档海外加速套餐，按设备数量与流量需求灵活选择，订阅导入后即可在常见客户端使用。",
+          "AI_HERO_SUBTITLE": "多档套餐灵活选，跨设备稳定连接",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备数区分",
+          "AI_HIGHLIGHT_2": "支持年付节省两个月费用",
+          "AI_HIGHLIGHT_3": "IPLC 专线游戏加速优化",
+          "AI_PLANS_INTRO": "对比流量额度、在线设备数与线路品质，选择适合使用场景的套餐。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量与设备数量，在基础版、旗舰版与团队版之间选定套餐。",
+          "AI_STEP_TEXT_2": "确认所用设备系统，查看对应客户端的适配说明与订阅导入要求。",
+          "AI_STEP_TEXT_3": "依照客户端文档粘贴订阅链接，完成节点同步并开始连接使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "可莉の蹦蹦炸弹加速方案",
+          "AI_FAQ_ANSWER_1": "基础版支持3台设备，旗舰版5台，团队版20台。统计的是同时在线设备数，切换设备前先断开旧连接即可。",
+          "AI_FAQ_ANSWER_2": "可以，三种套餐都提供按年付价格，约为月付的十个月费用。需要长期使用选年付更划算，短期体验先按月付。",
+          "AI_FAQ_ANSWER_3": "旗舰版包含IPLC专线游戏加速优化和全节点原生流媒体解锁，适合对延迟和流媒体解锁要求高的用户。基础版提供普通线路节点池。",
+          "AI_FAQ_ANSWER_4": "先在客户端导入订阅链接，再按客户端文档完成代理规则配置。不同系统导入路径不同，路由器通常在后台粘贴订阅地址更新。",
+          "AI_FAQ_ANSWER_5": "团队版含VIP专属高带宽节点和企业定制路由，可联系专属客户经理协助规划多设备部署。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "每个套餐支持多少台设备同时在线？",
+          "AI_FAQ_QUESTION_2": "可以按年付费吗？年付比月付便宜多少？",
+          "AI_FAQ_QUESTION_3": "旗舰版和基础版在节点上有什么区别？",
+          "AI_FAQ_QUESTION_4": "订阅导入客户端后需要做哪些配置？",
+          "AI_FAQ_QUESTION_5": "团队版适合什么使用场景？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "jykfscw.cn",
+    "host": "jykfscw.cn"
+  },
+  "file_hashes": {
+    "index.html": "e80e022ca5e1d912ac5de68ed3655b8d986087dcb5d34488ce9e795bb08d6f36",
+    "sitemap.xml": "c1c1acdd55c53c23dc2f121464aa2cb642f5c7aca2dea11cfee4cc6abff33804",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a58a0388a305c54025f05669d493c3e8ce2317fd105df61e40cb15b56780bb54",
+    "robots.txt": "ce1325f5a5c21c02770690dace7df3856ded14a47c4a389da4a17b16eda7db6d",
+    "214d657462c5ec3a2c6b78d881647d2c.txt": "aaf1b4792d53fcde684164557cafaa34f81ea27ff29165276e304871ab602c1c"
+  },
+  "revision": "d20f7a524bd6d53423b4ff1b4fe72d3824102925e914744bc36ea3bb9bd22f15"
+}
